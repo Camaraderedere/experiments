@@ -1,0 +1,42 @@
+h1 {
+  text-align: center;
+  border: 2px solid black;
+}
+
+.one {
+  border: 2px solid black;
+  /* height: 300px; */
+  /* width: 33%; */
+  padding-top:300px;
+  padding-bottom  :300px;
+  padding-left: 33%;
+  padding-right:33%;
+  float:left;
+}
+
+.two {
+  border: 2px solid black;
+  /* height: 300px; */
+  /* width: 33%; */
+  padding-top:300px;
+  padding-bottom  :300px;
+  padding-left: 33%;
+  padding-right:33%;
+  float:left;
+}
+
+.three {
+  border: 2px solid black;
+  /* height: 300px; */
+  /* width: 33%; */
+  padding-top:300px;
+  padding-bottom  :300px;
+  padding-left: 33%;
+  padding-right:33%;
+  float:left;
+}
+
+footer {
+  text-align: center;
+  border: 2px solid black;
+}
